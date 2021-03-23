@@ -11,3 +11,6 @@ https://digitalmarketinginstitute.com/
 - Project Management
 - Data Analytics
 - UX Design
+
+https://learndigital.withgoogle.com/digitalworkshop-eu
+
