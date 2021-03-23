@@ -21,6 +21,7 @@ https://digitalagencynetwork.com/
 https://skillshop.withgoogle.com/
 
 
+https://applieddigitalskills.withgoogle.com/
 
 
 StMed proto:
