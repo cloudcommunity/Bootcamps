@@ -5,3 +5,9 @@ https://www.digitalvidya.com/
 - multiple courses
 
 https://digitalmarketinginstitute.com/
+
+[Google Career Certificates](https://grow.google/intl/europe/google-certificates)
+- IT Support
+- Project Management
+- Data Analytics
+- UX Design
