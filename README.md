@@ -16,6 +16,7 @@
 - Technical Writer?
 - (Manual) Software Tester
 - Product Manager
+- Software Architect?
 
 ## Courses
 
