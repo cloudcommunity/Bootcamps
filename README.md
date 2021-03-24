@@ -55,6 +55,13 @@ Partners:
 - Novoresume?
 - JetBrains?
 
+Potential employers:
+
+- https://www.renderforest.com/careers
+- https://www.disqo.com/company/careers/
+- http://rockbitegames.com/jobs/
+- https://www.macadamian.com/
+
 ## Misc Links
 
 https://www.digitalvidya.com/
