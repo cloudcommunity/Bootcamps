@@ -26,6 +26,7 @@
 - introduction to [job role]
 - overview of tech jobs
 - APIs with Postman, Insomnia, Paw, fiddler, curl, swagger
+- Remote work, self organization & motivation
 
 ## Requirements
 
