@@ -15,6 +15,7 @@
 - SEO Specialist
 - Technical Writer?
 - (Manual) Software Tester
+- Product Manager
 
 ## Courses
 
@@ -60,6 +61,7 @@ Potential employers:
 - https://www.renderforest.com/careers
 - https://www.disqo.com/company/careers/
 - http://rockbitegames.com/jobs/
+- https://jobs.krisp.ai/
 - https://www.macadamian.com/
 
 ## Misc Links
