@@ -32,6 +32,7 @@
 - Java
 - CV/Resume
 - project management
+- testing
 
 ## Misc Links
 
