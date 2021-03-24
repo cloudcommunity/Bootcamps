@@ -8,6 +8,8 @@
 - Graphic Designer?
 - Data Scientist
 - Data Analyst
+- Cloud Architect
+- DevOps Engineer
 
 ## Requirements
 
