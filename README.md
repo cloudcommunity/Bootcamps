@@ -2,8 +2,9 @@
 
 ## Programs
 
-- Frontend Developer
-- Full-Stack Developer
+- Frontend Developer (JS, Node, React, Vue?)
+- Backend Developer (Java?)
+- Full-Stack Developer (JS, Node, Express, React, Mongo - MERN)
 - UX/UI Designer
 - Graphic Designer?
 - Data Scientist
@@ -25,6 +26,10 @@
 - Figma (UX/UI designers)
 - Behance (designers)
 - Scrum (all devs)
+- JavaScript
+- Node, NPM
+- Python
+- Java
 
 ## Misc Links
 
