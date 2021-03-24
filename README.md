@@ -22,6 +22,7 @@
 - scrum basics
 - introduction to [job role]
 - overview of tech jobs
+- APIs with Postman, Insomnia, Paw, fiddler, curl, swagger
 
 ## Requirements
 
