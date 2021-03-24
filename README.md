@@ -1,5 +1,20 @@
 # Bootcamp
 
+
+## Requirements
+
+- basic English (offer as a prep course?)
+- PC/laptop with Linux/Mac/Win
+
+## Skills
+
+- IDEs: Code, JetBrains
+- OS: Mac, Win, Linux
+- git
+- GitHub/GitLab/Bitbucket
+
+## Misc Links
+
 https://www.digitalvidya.com/
 - 3 programs: digital marketing, data science, data analytics
 - multiple courses
@@ -28,14 +43,3 @@ https://applieddigitalskills.withgoogle.com/
 StMed proto:
 - https://digitalrain.in/
 
-## Requirements
-
-- basic English (offer as a prep course?)
-- PC/laptop with Linux/Mac/Win
-
-## Skills
-
-- IDEs: Code, JetBrains
-- OS: Mac, Win, Linux
-- git
-- GitHub/GitLab/Bitbucket
