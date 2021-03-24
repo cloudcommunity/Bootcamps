@@ -20,6 +20,8 @@
 - interview
 - project management
 - scrum basics
+- introduction to [job role]
+- overview of tech jobs
 
 ## Requirements
 
