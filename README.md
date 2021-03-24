@@ -22,6 +22,7 @@
 - GitHub/GitLab/Bitbucket
 - Figma (UX/UI designers)
 - Behance (designers)
+- Scrum (all devs)
 
 ## Misc Links
 
