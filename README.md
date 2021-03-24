@@ -13,6 +13,7 @@
 - DevOps Engineer
 - Growth Hacker / Engineer
 - SEO Specialist
+- Technical Writer?
 
 ## Courses
 
