@@ -1,5 +1,13 @@
 # Bootcamp
 
+# Programs
+
+- Frontend Developer
+- Full-Stack Developer
+- UX/UI Designer
+- Graphic Designer?
+- Data Scientist
+- Data Analyst
 
 ## Requirements
 
@@ -12,6 +20,8 @@
 - OS: Mac, Win, Linux
 - git
 - GitHub/GitLab/Bitbucket
+- Figma (UX/UI designers)
+- Behance (designers)
 
 ## Misc Links
 
