@@ -11,7 +11,8 @@
 - Data Analyst
 - Cloud Architect
 - DevOps Engineer
-- Growth Hacker
+- Growth Hacker / Engineer
+- SEO Specialist
 
 ## Courses
 
