@@ -1,6 +1,6 @@
 # Bootcamp
 
-# Programs
+## Programs
 
 - Frontend Developer
 - Full-Stack Developer
