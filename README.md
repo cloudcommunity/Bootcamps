@@ -11,6 +11,15 @@
 - Data Analyst
 - Cloud Architect
 - DevOps Engineer
+- Growth Hacker
+
+## Courses
+
+- basics of Linux administration & scripting
+- cv/resume creation & review
+- interview
+- project management
+- scrum basics
 
 ## Requirements
 
