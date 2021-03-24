@@ -30,6 +30,8 @@
 - Node, NPM
 - Python
 - Java
+- CV/Resume
+- project management
 
 ## Misc Links
 
