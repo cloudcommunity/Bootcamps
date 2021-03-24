@@ -14,6 +14,7 @@
 - Growth Hacker / Engineer
 - SEO Specialist
 - Technical Writer?
+- (Manual) Software Tester
 
 ## Courses
 
