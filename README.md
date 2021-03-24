@@ -45,6 +45,11 @@
 - project management
 - testing
 
+Partners:
+
+- Novoresume?
+- JetBrains?
+
 ## Misc Links
 
 https://www.digitalvidya.com/
