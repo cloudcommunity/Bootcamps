@@ -12,7 +12,7 @@
 ## Requirements
 
 - basic English (offer as a prep course?)
-- PC/laptop with Linux/Mac/Win
+- PC/laptop with Linux/Mac/Win (in order of recommendation)
 
 ## Skills
 
