@@ -14,7 +14,7 @@
 - Growth Hacker / Engineer
 - SEO Specialist
 - Technical Writer?
-- (Manual) Software Tester
+- (Manual) Software Tester / QA Engineer
 - Product Manager
 - Software Architect?
 
