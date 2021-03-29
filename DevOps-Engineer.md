@@ -19,5 +19,7 @@ Added by Mohan (via Telegram):
 - docker
 
 Added by Albert (via Slack):
+- Agiles methodologies (Scrum/Kanban/XP/SAFe) , and from architecture standpoint I.a.a.C, Hybrid environment (plus Lambda-Kappa), Security, pipelines, soft skills & communication maybe too.
 
-Agiles methodologies (Scrum/Kanban/XP/SAFe) , and from architecture standpoint I.a.a.C, Hybrid environment (plus Lambda-Kappa), Security, pipelines, soft skills & communication maybe too.
+Added by Jags (via Telegram):
+- Docker & Shell Scripting in additon to this
