@@ -10,7 +10,6 @@ Added by Abhinav Singh (via GitHub):
 - DevOps Implemtation with usecases
 
 Added by Mohan (via Telegram):
-my thoughts are as follows
 - building ci/CD pipelines
 - kubernetes/rancher
 - helm
