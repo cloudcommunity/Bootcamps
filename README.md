@@ -95,3 +95,4 @@ https://applieddigitalskills.withgoogle.com/
 StMed proto:
 - https://digitalrain.in/
 
+https://www.sololearn.com/
