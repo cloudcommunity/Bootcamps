@@ -18,7 +18,7 @@ Added by Mohan (via Telegram):
 - hashicorp tools(vault, terraform, packer, consul) 
 - docker
 
-Added by pavan(via github) 
+Added by Pavan-Gunda (via GitHub) 
 - rego, open policy agent, gatekeeper 
 
 Added by Albert (via Slack):
