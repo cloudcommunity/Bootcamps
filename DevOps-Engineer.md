@@ -18,6 +18,9 @@ Added by Mohan (via Telegram):
 - hashicorp tools(vault, terraform, packer, consul) 
 - docker
 
+Added by pavan(via github) 
+- rego, open policy agent, gatekeeper 
+
 Added by Albert (via Slack):
 - Agiles methodologies (Scrum/Kanban/XP/SAFe) , and from architecture standpoint I.a.a.C, Hybrid environment (plus Lambda-Kappa), Security, pipelines, soft skills & communication maybe too.
 
